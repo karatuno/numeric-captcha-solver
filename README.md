@@ -1,5 +1,5 @@
 # numeric-captcha-solver
-### Predicting numric digits in image
+### Predicting numeric digits in image
 #### input image
 ![image](https://raw.githubusercontent.com/karatuno/numeric-captcha-solver//master/unsolved-captchas/electoral-captchas/11147.png)
 #### result:
